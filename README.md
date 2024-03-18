@@ -1,4 +1,4 @@
-Created a website clone of Cynthia Ugwu with some featurs <br>
+Created a website clone of Cynthia Ugwu with -<br>
 
 smooth scrolling <br>
 
